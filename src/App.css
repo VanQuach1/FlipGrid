@@ -1,0 +1,41 @@
+/* Global css styling */
+.flip-grid-button {
+  color: white;
+  background-color: #ca006d;
+}
+
+.font-weight-normal {
+  font-weight: normal;
+}
+
+/* Sign up page styling */
+.sign-up-page {
+  color: #7b7b7b;
+}
+
+  .sign-up-page, .confirmation-page h1 {
+    margin-top: 25px;
+    color: #3a3a3a;
+  }
+
+  .sign-up-page form {
+    margin-top: 16px;
+  }
+
+  .sign-up-page div {
+    text-align: right;
+  }
+
+/* Confirmation page styling */
+.confirmation-page h1 {
+  margin-bottom: 16px;
+}
+
+.confirmation-page h6 {
+  margin-top: 16px;
+}
+
+.confirmation-sign-in-button {
+  text-align: right;
+  margin-top: 64px;
+}
